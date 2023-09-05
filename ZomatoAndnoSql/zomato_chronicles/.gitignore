@@ -1,0 +1,21 @@
+# Python artifacts
+*.pyc
+*.pyo
+*.egg-info/
+__pycache__/
+
+# Virtual environment
+venv/
+*.virtualenv/
+
+# Django specific
+*.log
+*.pot
+*.db
+db.sqlite3
+migrations/
+media/
+
+# IDE specific (for example, if using PyCharm)
+.idea/
+*.iml
