@@ -131,6 +131,7 @@ function Home() {
         "url(https://img.freepik.com/premium-photo/oktoberfest-tasty-bavarian-festival-beer-snacks_731930-13909.jpg?w=900)"
       }
       color={"white"}
+      minHeight="100vh"
     >
       <VStack spacing={5} align="start" width="120%">
         <Button fontSize="xl" mb={1} ml={"30%"} fontWeight={"extrabold"}>
